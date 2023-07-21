@@ -15,7 +15,7 @@ Create a Binder launch button:
 
 ## Tutorial tags/keywords
 
-seeds, size, color, quinoa
+seed, seeds, seed analysis, shape analysis, color analysis, seed count, quinoa
 
 ## Citations
 
