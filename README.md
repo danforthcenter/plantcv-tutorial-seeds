@@ -1,6 +1,6 @@
-# Tutorial Title
+# Seeds Analysis Tutorial
 
-Description of tutorial.
+Analyze seed size and color using plantCV.
 
 Create a Binder launch button:
 
@@ -11,11 +11,11 @@ Create a Binder launch button:
 5. Delete these meta-instructions, optionally replace with your own. 
 6. Launch to build the environment
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-template/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-seeds/HEAD?labpath=index.ipynb)
 
 ## Tutorial tags/keywords
 
-tag1, tag2, (e.g. data type, species featured, algorithm, etc) ...
+seeds, size, color, quinoa
 
 ## Citations
 
