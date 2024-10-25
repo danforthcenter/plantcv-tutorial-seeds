@@ -1,6 +1,8 @@
 name: test-pr
 
 on:
+    push:
+        branches: [ $default-branch ]
     pull_request:
         # Run on pull requests against the main branch
         branches: [main]
