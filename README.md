@@ -9,6 +9,3 @@ Analyze seed size and color using PlantCV.
 
 seed, seeds, seed analysis, shape analysis, color analysis, seed count, quinoa
 
-## Citations
-
-Optional.
