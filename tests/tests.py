@@ -19,12 +19,9 @@ def setup_function():
 # Tests executing the notebook
 # ##########################
 def test_notebook():
-    
     # Open the notebook
     with open("index.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
-    # Move back to the project root so file paths are accurate
-    os.chdir("..")
     # Process the notebook
     ep = ExecutePreprocessor(timeout=600, kernel_name="python3")
     ep.preprocess(nb, {"metadata": {"path": TEST_TMPDIR}})
