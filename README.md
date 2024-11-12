@@ -1,5 +1,7 @@
 # Seeds Analysis Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-seeds/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-seeds/actions/workflows/ci-tests.yml)
+
 Analyze seed size and color using PlantCV.
 
 
