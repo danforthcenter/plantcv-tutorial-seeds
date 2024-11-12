@@ -9,7 +9,6 @@ def test_notebook(tmpdir):
     # Open the notebook
     with open("index.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
-
     # Process the notebook
     ep = ExecutePreprocessor(timeout=600, kernel_name="python3")
     ep.preprocess(nb, {"metadata": {"path": os.getcwd()}})
