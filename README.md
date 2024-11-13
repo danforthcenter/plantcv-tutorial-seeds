@@ -1,7 +1,5 @@
 # Seeds Analysis Tutorial
 
-[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-seeds/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-seeds/actions/workflows/ci-tests.yml)
-
 Analyze seed size and color using PlantCV.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-seeds/HEAD?labpath=index.ipynb)
@@ -12,3 +10,4 @@ Analyze seed size and color using PlantCV.
 
 seed, seeds, seed analysis, shape analysis, color analysis, seed count, quinoa
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-seeds/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-seeds/actions/workflows/ci-tests.yml)
